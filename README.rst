@@ -6,5 +6,5 @@ Quick start
 -----------
 以下のようにcloneし、実行して確認してください::
 
-    pip install -U git+https://github.com/naritotakizawa/django-test-access
+    git clone https://github.com/naritotakizawa/django-test-access.git
     python manage.py runserver
